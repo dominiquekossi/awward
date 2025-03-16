@@ -30,14 +30,7 @@ Make sure you have the following installed on your machine:
 - **Node.js** - JavaScript runtime.
 - **npm** (Node Package Manager) - For managing project dependencies.
 
-### Cloning the Repository
-
-Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/adrianhajdin/award-winning-website.git
-cd award-winning-website
-
+ 
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
